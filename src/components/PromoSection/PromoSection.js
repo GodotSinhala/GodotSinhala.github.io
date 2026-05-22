@@ -23,7 +23,7 @@ const promoItems = [
         description:
             'This is my YouTube channel where I share Godot content focused on helping you bring your dream game to life. Join me and start building.',
         buttonLabel: 'Explore More Tutorials →',
-        buttonTo: 'https://youtube.com/@godotsensei', 
+        buttonTo: 'https://youtube.com/@KasunMiu', 
         imageSrc: '/img/HomePage/yt.png',
         imageAlt: 'More Tutorials',
         reverse: true,
